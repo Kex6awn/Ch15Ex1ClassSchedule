@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Razor.TagHelpers;
-using Microsoft.AspNetCore.Mvc.ViewFeatures;    // [ViewContext] attribute
-using Microsoft.AspNetCore.Mvc.Rendering;       // ViewContext data type
-using Microsoft.AspNetCore.Routing;             // LinkGenerator
+using Microsoft.AspNetCore.Mvc.ViewFeatures;    
+using Microsoft.AspNetCore.Mvc.Rendering;       
+using Microsoft.AspNetCore.Routing;            
 
 namespace ClassSchedule.TagHelpers
 {
